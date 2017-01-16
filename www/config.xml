@@ -4,20 +4,20 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.control_esp8266"
         versionCode = "30" 
-        version     = "0.0.30" >
+        version     = "0.0.1" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	
 
-   <name>Control ESP8266</name>
+   <name>Solar royale</name>
 
    <description>
        Test per control.lar un NodeMCU 8266
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://pchacon83.pe.hu" email="pchacon83@numancia.cat">
+       Pol Chacon
     </author>
 
 	<content src="index.html"/>
